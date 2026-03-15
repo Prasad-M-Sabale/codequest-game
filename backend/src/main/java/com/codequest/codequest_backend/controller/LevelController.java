@@ -1,4 +1,4 @@
-package com.codequest.controller;
+package com.codequest.codequest_backend.controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
